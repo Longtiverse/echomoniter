@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EchoMonitor</string>
+    
+    <!-- 通知 -->
+    <string name="channel_name">音频监听服务</string>
+    <string name="channel_description">实时环境音监听服务通知</string>
+    <string name="notification_title">正在监听环境音</string>
+    <string name="notification_content">点击打开应用或停止监听</string>
+    <string name="action_stop">停止</string>
+    
+    <!-- UI文本 -->
+    <string name="monitor_switch">监听开关</string>
+    <string name="volume_label">播放音量</string>
+    <string name="max_volume_label">最大音量限制</string>
+    <string name="status_ready">状态：就绪</string>
+    <string name="status_running">状态：运行中</string>
+</resources>
